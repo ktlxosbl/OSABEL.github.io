@@ -14,6 +14,7 @@ const classmates = [
   { name: "Enot, Van Humphrey D.", website: "https://vanenot.github.io/vanhumphrey/home.html" },
   { name: "Dano, John Carlo.", website: "https://surikku05.github.io/dano/" },
   { name: "Despi, Kessel", website: "https://kessel26.github.io/kessel05/" },
+  {name: "Panilag,John Elmer.", website: "https://panilag.github.io/PANILAG/" },
 ];
 
 const searchInput = document.getElementById("searchInput");
